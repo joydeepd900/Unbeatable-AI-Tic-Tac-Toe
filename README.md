@@ -12,11 +12,12 @@ This project is a Python-based implementation of the Minimax Algorithm to solve 
 * **Programming Language:** Python .
 * **Standard Libraries:** 'random','datetime' (for logging).
 
-## How to Run
+## Steps to Install & Run
 1.  Ensure Python is installed.
 2.  Clone the Repository: Download the Folder- AI_Tic-Tac-Toe
 3.  Run the command: 'python main.py'
 
+## Testings
 **Test A: Functional Gameplay**
 1.  Run the game.
 2.  Enter a number (0-8) to place your 'X'.
